@@ -1,5 +1,7 @@
 # Simple demonstration of rabbitMQ message queuing
 
+Tutorial can be found [here](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html).
+
 ## Start rabbitMQ in a container
 We forward port 5672 so external producer and consumer can connect. See: [rabbitmq on docker hub](https://hub.docker.com/_/rabbitmq/) for details.
 ```bash
